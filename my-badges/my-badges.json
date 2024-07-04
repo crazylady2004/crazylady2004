@@ -1,0 +1,37 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/crazylady2004/synology/commit/a274a38750ff2e0fbe40f300791cb81888faf50e\"><strong>a</strong>274a38750ff2e0fbe40f300791cb81888faf50e</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/epfl-si/EWS2AWS/commit/981032962c17b8966f42373c37d31bed0150a609\">9810329</a>\n- <a href=\"https://github.com/epfl-si/EWS2AWS/commit/ff83e3b39bee6fb11be2fe153b021be4219fbdf8\">ff83e3b</a>\n- <a href=\"https://github.com/crazylady2004/synology/commit/85cbe6263173ef142cda43912b45a4bdf19a4ad8\">85cbe62</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/crazylady2004/Projet-grille-pain/commit/cfaed8c6ab598a718737d6011a58ad0ec37fcab0\">cfaed8c</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-1.png?raw=true"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"the\".",
+    "body": "My favorite commit message words are:\n\n1. the (used 36 times)\n2. of (used 32 times)\n3. add (used 24 times)\n4. creation (used 19 times)\n5. and (used 17 times)",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
+  }
+]

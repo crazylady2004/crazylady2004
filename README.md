@@ -6,10 +6,9 @@
 
 ### 📖 About me
 
-Hello I am Dwesh and I live in switzerland. I am in my first year of <br>apprenticeship at <a href="https://www.epfl.ch/fr/" target="_blank">EPFL.</a>
-I love coding and. I've been <br>coding since I was 9.<br>
+Hello I am Emixy and I live in switzerland. I am in my last year of <br>apprenticeship at <a href="https://www.epfl.ch/fr/" target="_blank">EPFL.</a>
+I love IT <br>
 
-<br>
 
 <!-- my-badges start -->
 <h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
@@ -21,20 +20,35 @@ I love coding and. I've been <br>coding since I was 9.<br>
 <a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;the&quot;." title="My favorite word is &quot;the&quot;." width="64"></a>
 <!-- my-badges end -->
 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?crazylady2004=ryo-ma&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+### 🛠️ Technologies et outils que je connais
+
+Je maîtrise les languages suivant :
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,git,mysql,bash,powershell,r,js,laravel&theme=light" alt="languages" />
+</div>
+
+Je maîtrise les technologies suivants et d'autres:
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,wordpress,docker,github,vscode&theme=light" alt="Technologies" />
+</div>
+
+Je maîtrise les OS suivant :
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows,apple&theme=light" alt="OS" />
+</div>
+
+
 ### 📊 Github Stats
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=crazylady2004&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 
-<br>
 
-### 🔨 Languages and Tools:
-
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.github.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="figma" height='42px'/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-
-<img src="https://raw.githubusercontent.com/dwesh163/dwesh163/output/snake.svg" alt="Snake animation"/>
-
-</a>
-
-<br>

@@ -21,9 +21,7 @@ I love IT <br>
 <!-- my-badges end -->
 
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?crazylady2004=ryo-ma&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=crazylady2004&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### 🛠️ Technologies et outils que je connais

@@ -6,7 +6,7 @@ My favorite commit message words are:
 
 1. the (used 36 times)
 2. of (used 32 times)
-3. add (used 24 times)
+3. add (used 25 times)
 4. creation (used 19 times)
 5. and (used 17 times)
 
